@@ -1,7 +1,8 @@
 0x01. Basic authentication
 ==========================
 
- -By Edwin Ngaira
+- By Dev Nderitu
+
 Background Context
 ------------------
 
